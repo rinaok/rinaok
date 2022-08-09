@@ -6,6 +6,6 @@
 - 🔭 I’m currently working on [Vivid](https://vivid.deno.dev)
 - 💕 I'm interested in **Frontend** && **Design Systems**
 - 🌱 I’m currently learning **React**
-- 💬 Ask me about **Minimalism** && **Open Source**
+- 💬 Ask me about **Minimalism**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/rina-oksman)
 - ⚡ Fun fact: I have the cutest 🐶 in the world
