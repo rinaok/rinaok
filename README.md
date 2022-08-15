@@ -1,6 +1,4 @@
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200'>
-
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Rina.
+# Hi there! <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='100'> I'm Rina.
 
 - 👩🏻‍💻 I’m currently working as a **Software Engineer** @ **Vonage**
 - 🔭 I’m currently working on [Vivid](https://vivid.deno.dev)
